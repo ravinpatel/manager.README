@@ -46,36 +46,36 @@ We will make mistakes. This is the most sured thing to happen as a human. It is 
 
 ## My expectations
 
-Strong communication (overcommunication)
+### Strong communication (overcommunication)
 
 Strong communication is incredibly important to every individual in a team. Constant feedback loops keeps everyone on the same page and we are aware what needs to be done so together we can drive to reach our goal. We are a team so let's talk to each other!
 
-Suffering silently will not get you far or quick enough to where you would like to be. Asking for help is incredibly encouraged as having someone next to you will help you gain a deeper knowledge and we move faster as a team.
+<!-- Suffering silently will not get you far or quick enough to where you would like to be. Asking for help is incredibly encouraged as having someone next to you will help you gain a deeper knowledge and we move faster as a team. -->
 
-Bi-weekly 1:1s
+### Bi-weekly 1:1s
 
 I believe 1:1s are incredibly important for both of us. The best type of 1:1s are ones that have a pre set agenda made up of points of discussion from the last session. I want you to be honest with me and then I can help you in whichever direction you need my guidance. Generally, these sessions would be lead by you so feel free to choose any topic of choice however I will have a set of questions to help you.
 
 ## My quirks
 
-Feedback obsessed 
+### Feedback obsessed 
 
 I am always striving to do any process better. I will ask for feedback on discussions, processes, work flows and overall my work itself. I encourage to give each other feedback and I will ask you to give me feedback at the end of 1:1s however you do not need to wait to give me feedback on anything! 
 
-Work obsessed.
+### Work obsessed
 
 I have a drive to do as much as I can and challenge myself highly. However, my choices ripple outside of me to my team. If you feel like the work is too much or I am taking on too much for the team please feel free to feedback to me and we can make it more managable.
 
-Team relationships
+### Team relationships
 
 I believe the closer the team the better the work day is and the better we approach tasks/issues. I love to hear peopls interests and learning from them. I believe building a friendship is key to being happy in your work enviroment. I like to joke and keep things light because at the end of the day I believe creating a happier enviroment even when we have issues is better for everyone and makes tense situations a lot more relaxed.
 
 ## How to achieve the most in your first 90 days
 
-Be curious and ask questions/for help!
+### Be curious and ask questions/for help!
 
 Suffering in silence is the hardest way to learn and slows down your onboarding process. We have a complicated product which still confuses me at times. Asking questions is the quickest way of gaining knowledge also might expose gaps in knowledge which could be key for both people! We are all super happy to help so don't be afraid to ask at anytime!
 
-Getting a real feel of the codebase and product
+### Getting a real feel of the codebase and product
 
 Take your time consuming the flows of the product and a grasp on patterns in the codebase. You will learn best from diving into the code and understanding the reasoning behind decisions. Moreover, reading tests is also a great way to understand the code!
