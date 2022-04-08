@@ -28,7 +28,7 @@ However, more importantly to me, one of my responsiblities is the growth and dev
 
 I don't like the idea of "Managing" people. I tend to be more of a person that guides those into the right direction and provide them opportunites of ownership so they can grow in a way of knowledge and confidence.
 
-Honest truth/feedback rapidly (good/bad)
+### Honest truth/feedback rapidly (good/bad)
 
 I believe in Honest feedback. The best timing for feedback is as quickly as possible. There is no point in waiting till the next "catch up" to provide ideas of a better way of working. I will encourage my team to be open with feedback to each other and to me. Good feedback is as important as bad feedback. We should apprectiate it when an individual approaches a situation well.
 
