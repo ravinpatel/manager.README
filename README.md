@@ -19,7 +19,7 @@ This means I am responsible for the frequent delievery of highly important featu
 
 I am involved in producing quality code, reviewing, mentoring and guiding developers.
 
-Also part of my responsiblities is to lead the team in terms of development, arcetecting/strategising features and finding improvments to work flows/processes that affect us daily.
+Also part of my responsiblities is to lead the team in terms of development, architecting/strategising features and finding improvments to work flows/processes that affect us daily.
 
 However, more importantly to me, one of my responsiblities is the growth and development of the individuals of my team. That in the short and the long term, I help you reach your career goals to the point where you are satisified at your growth and you have been recognised to be at a higher level from when you have started.
 
