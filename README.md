@@ -30,25 +30,25 @@ I don't like the idea of "Managing" people. I tend to be more of a person that g
 
 ### Honest truth/feedback rapidly (good/bad)
 
-I believe in Honest feedback. The best timing for feedback is as quickly as possible. There is no point in waiting till the next "catch up" to provide ideas of a better way of working. I will encourage my team to be open with feedback to each other and to me. Good feedback is as important as bad feedback. We should apprectiate it when an individual approaches a situation well.
+I believe in Honest feedback. The best timing for feedback is as quickly as possible. There is no point in waiting till the next "catch up" to provide ideas of a better way of working. I will encourage my team to be open with feedback to each other and to me. Good feedback is as important as bad feedback. We should appreciate it when an individual approaches a situation well.
 
 ### teamwork/collaboration
 
-You will often hear me say "Team work makes the dream work". I say this a lot because it is incredibly true, without a strong collaboration of the team we start to slip into chaos where we are not sharing the same goals and adds a lot of friction to what could be a simple task when consumed together.
+You will often hear me say "Team work makes the dream work". I say this a lot because it is incredibly true, without a strong collaboration of the team we start to slip into chaos where we are not sharing the same goals and adding a lot of friction to what could be a simple task when consumed together.
 
 ### We celebrate success
 
-I am a massive fan of celebrating success. It builds confidence in the team that we worked well together and motivates us to take bigger and bolder tasks! We should always celebrate the team and other peers achievments.
+I am a massive fan of celebrating success. It builds confidence in the team that we worked well together and motivates us to take bigger and bolder tasks! We should always celebrate the team and other peers achievements.
 
 ### Being a solutionist
 
-We will make mistakes. This is the most sured thing to happen as a human. It is part of life to do things wrong, make the wrong decision or making a bug (well some peoples lives). I believe in that with every problem there is a solution and a lesson. We never go on a blame hunt however I do believe in getting the team together to attack the problem. This builds a stronger team, healthier enviroment, a gain in knowledge and optimistic mindsets.
+We will make mistakes. This is the most sured thing to happen as a human. It is part of life to do things wrong, make the wrong decision or make a bug (well some people's lives). I believe that with every problem there is a solution and a lesson. We never go on a blame hunt however I do believe in getting the team together to attack the problem. This builds a stronger team, healthier environment, a gain in knowledge and optimistic mindsets.
 
 ## My expectations
 
 ### Strong communication (overcommunication)
 
-Strong communication is incredibly important to every individual in a team. Constant feedback loops keeps everyone on the same page and we are aware what needs to be done so together we can drive to reach our goal. We are a team so let's talk to each other!
+Strong communication is incredibly important to every individual in a team. Constant feedback loops keep everyone on the same page and we are aware of what needs to be done so together we can drive to reach our goal. We are a team so let's talk to each other!
 
 <!-- Suffering silently will not get you far or quick enough to where you would like to be. Asking for help is incredibly encouraged as having someone next to you will help you gain a deeper knowledge and we move faster as a team. -->
 
